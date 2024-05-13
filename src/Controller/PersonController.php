@@ -23,7 +23,7 @@ class PersonController extends AbstractController
         $this->localeSwitcher->setLocale($this->getParameter('app.language'));
         $form = $this->createForm(PersonType::class);
 
-        return $this->render('person/create.html.twig', [
+        return $this->render('person/index.html.twig', [
             'person' => $form
         ]);
     }
