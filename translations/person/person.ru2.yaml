@@ -1,0 +1,5 @@
+person:
+  firstName: Как звать
+  lastName: Чей будешь
+  description: Расскажи еще чего-то
+  submit: Создать

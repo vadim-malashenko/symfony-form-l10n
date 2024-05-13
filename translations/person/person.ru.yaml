@@ -1,0 +1,5 @@
+person:
+  firstName: Имя
+  lastName: Фамилия
+  description: Описание
+  submit: Сохранить
